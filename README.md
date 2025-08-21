@@ -172,13 +172,13 @@ http://example.com/login
 
 ### 简单模式
 
-- 仅使用基础用户名（如 'admin'）和 [password_list.txt](file:///c%3A/Users/2tina/Desktop/WebCrack-master/WebCrack Pro/conf/password_list.txt) 中的密码
+- 仅使用基础用户名（如 'admin'）和 [password_list.txt] 中的密码
 - 适用于快速安全检查
 - 测试组合较少，执行速度快
 
 ### 复杂模式
 
-- 使用 [username.txt](file:///c%3A/Users/2tina/Desktop/WebCrack-master/WebCrack Pro/conf/username.txt) 和 [password.txt](file:///c%3A/Users/2tina/Desktop/WebCrack-master/WebCrack Pro/conf/password.txt) 中的完整字典
+- 使用 [username.txt] 和 [password.txt] 中的完整字典
 - 适用于全面安全评估
 - 测试组合较多，执行时间较长
 
